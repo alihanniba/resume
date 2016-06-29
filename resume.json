@@ -1,30 +1,30 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
-  "repo": "https://github.com/joyeecheung/resume.git",
-  "job_description": ["前端工程师", "软件工程师"],
+  "resume_title": "刘立 - 个人简历",
+  "name": "刘立",
+  "repo": "https://github.com/alihanniba/resume.git",
+  "job_description": ["前端工程师", "PHP工程师"],
   "contact": {
-    "email": "joyeec9h3@gmail.com",
+    "email": "alihanniba@gmail.com",
     "wechat": {
-      "id": "joyee-cheung",
+      "id": "710024386",
       "qrcode": "static/wechat.svg"
     },
     "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
+      "id": "阿里汉尼拔",
+      "url": "http://weibo.com/2691586145/profile?topnav=1&wvr=6&is_all=1"
     },
     "github": {
-      "id": "joyeecheung"
+      "id": "alihanniba"
     },
     "blog": {
-      "url": "http://joyeecheung.cnblogs.com"
+      "url": "https://www.alihanniba.com"
     }
   },
   "links": [{
     "type": "repo",
-    "url": "https://github.com/joyeecheung/resume"
+    "url": "https://github.com/alihanniba/resume"
 
   }, {
     "type": "pdf",
@@ -32,20 +32,20 @@
 
   }, {
     "type": "zhihu",
-    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
+    "url": "https://www.zhihu.com/people/rockey-8"
   }, {
-    "type": "doubanbook",
-    "url": "http://book.douban.com/people/joyee-cheung/"
+    "type": "gitbook",
+    "url": "https://www.gitbook.com/@alihanniba/dashboard"
   }],
   "education": [{
     "type": "undergraduate",
-    "name": "中山大学",
-    "major": "软件工程",
-    "start": "2012",
-    "end": "2016",
+    "name": "中南林业科技大学",
+    "major": "旅游管理",
+    "start": "2011",
+    "end": "2015",
     "honor": [
-      "2012 - 2013 学年度校**三等奖学金**",
-      "2013 - 2014 学年度校**一等奖学金**"
+      "2011 - 2012 学年度校**三等奖学金**",
+      "2012 - 2013 学年度校**一等奖学金**"
     ]
   }],
   "language": [{
@@ -53,31 +53,27 @@
     "certificate": [{
       "type": "CET-4",
       "full": "710",
-      "score": "679"
-    }, {
-      "type": "CET-6",
-      "full": "710",
-      "score": "616"
+      "score": "434"
     }],
     "description": [
-      "能流畅阅读英文专业书籍、文档及其他资料",
+      "能流畅阅读英文文档及其他资料",
       "可无字幕观看 MOOC 课程、开发者大会视频",
-      "能够在英文邮件列表、Stack Overflow 等社区正常交流"
+      "能够在github、Stack Overflow 等社区正常交流"
     ]
   }],
   "experience": [{
-    "type": "internship",
+    "type": "full-time",
     "techtype": "frontend",
-    "place": "阿里巴巴 B2B-ICBU 数据应用部",
-    "start": "2015.07",
+    "place": "深圳声牙科技WEB技术部-数据应用部",
+    "start": "2016.03",
     "end": "至今",
-    "name": "前端开发",
+    "name": "PHP开发",
     "description": [
       "开发支持 i18n 的数据可视化组件",
       "解决外部系统遗留的 bug 及浏览器兼容问题（`IE7+`）",
       "使用 `SVG` 等技术开发内部系统数据可视化图表"
     ],
-    "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
+    "stack": ["PHP", "laravel", "qinniuAPI", "composer", "mysql", "redis"],
     "compatibility": "IE8+"
   }, {
     "type": "internship",
@@ -202,13 +198,11 @@
   }, {
     "type": "miscellaneous",
     "item": [
-      "三年 `Linux` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
-      "熟悉多种平台与编译环境下的 `C` / `C++` 及其新标准，编写过简单的解释器、数据库引擎、3D 图形程序及 Node.js 扩展，能阅读 `WebKit` / `Blink、V8` 等常接触项目的源代码并加以利用",
-      "熟悉 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫、机器学习算法及分布式程序（参见 GitHub）",
-      "具备基本的 `Web 安全`知识（`X.509` / `XSS` / `CSRF` 等）",
-      "能够使用 `LaTeX` 及 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
-      "日常使用 `Git` 与 `Sublime Text` / `Vim` 进行开发，也乐于尝试新工具",
-      "能够使用 `Photoshop` / `Illustrator` 完成简单的设计"
+      "一年 `Linux` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
+      "熟悉 `Python`，能实现简单的数据自动化脚本、爬虫（参见 GitHub）",
+      "能够使用 `Markdown` 编写得体的文档或论文，具备良好的技术交流能力",
+      "日常使用 `Git` 与 `Sublime Text` / `Vim` / `PhpStorm` /  `Atom` 进行开发，也乐于尝试新工具",
+      "能够使用 `Photoshop` / `Sketch` / `Zeplin` 完成简单的设计"
     ]
   }]
 }
