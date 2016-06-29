@@ -62,89 +62,80 @@
     ]
   }],
   "experience": [{
-    "type": "full-time",
-    "techtype": "frontend",
+    "type": "internship",
+    "techtype": "backend",
     "place": "深圳声牙科技WEB技术部-数据应用部",
     "start": "2016.03",
     "end": "至今",
     "name": "PHP开发",
     "description": [
-      "开发支持 i18n 的数据可视化组件",
-      "解决外部系统遗留的 bug 及浏览器兼容问题（`IE7+`）",
-      "使用 `SVG` 等技术开发内部系统数据可视化图表"
+      "开发符合restful规范的大数据后台接口",
+      "同步大数据请求百度对接接口标签",
+      "开发后台逻辑展示接口"
     ],
     "stack": ["PHP", "laravel", "qinniuAPI", "composer", "mysql", "redis"],
     "compatibility": "IE8+"
   }, {
     "type": "internship",
     "techtype": "frontend",
-    "place": "埃森哲广州 CDC",
-    "start": "2014.08",
-    "end": "2014.09",
+    "place": "深圳声牙科技WEB技术部-前端应用部",
+    "start": "2015.10",
+    "end": "2016.03",
     "name": "前端开发",
     "description": [
-      "参与某集团内部办公系统（OA）的前端开发，基于 `jQuery UI` 与 `Bootstrap` 实现前端组件及数据交互",
-      "解决遗留的 bug 及浏览器兼容问题（`IE8+`）",
-      "使用 `Grunt` 及 `Less` 完成皮肤开发"
+      "参与公司官网及后台页面制作,实现前端组件及数据交互",
+      "配合运营部完成HTML5活动页面制作及微信开发"
     ],
-    "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
+    "stack": ["laravel", "javascript", "jquery"],
     "compatibility": "IE8+"
   }, {
     "type": "internship",
-    "techtype": "nodejs",
-    "place": "东西科技",
-    "start": "2014.03",
-    "end": "2014.06",
-    "name": "Node.js 开发",
+    "techtype": "frontend",
+    "place": "深圳声牙科技WEB技术部-前端应用部",
+    "start": "2015.06",
+    "end": "2015.10",
+    "name": "前端开发",
     "description": [
-      "开发并维护封装微信公众平台 API 的 `Express 中间件`",
-      "使用 `Mocha`、`Chai` 及 `CoffeeScript` 编写单元测试",
-      "结合 `MongoDB` 开发微信公众平台 Demo",
-      "编写 `bash` 脚本，使用 `ApacheBench` 对后端程序进行压力测试与资源使用分析，辅助服务器选型"
+      "开发基于公司业务的商超静态页面",
+      "开发基于公司内部运营部后台页面",
+      "编写简单的基于thinkphp的前端对接数据接口"
     ],
-    "stack": ["nodejs", "express", "mocha", "chai", "coffeescript", "mongodb"]
+    "stack": ["html", "css", "javascript", "jquery", "thinkphp"]
   }, {
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
-    "name": "Resume",
-    "source": "https://github.com/joyeecheung/resume",
-    "demo": "http://joyeecheung.github.io/resume/",
+    "name": "www.alihanniba.com",
+    "source": "https://github.com/alihanniba/alihanniba.com-all-languages-version",
+    "demo": "https://www.alihanniba.com/",
     "description": [
-      "这份在线简历的生成器",
-      "从 JSON 读取数据，使用 `Jade` 模板生成 HTML，`Less` 生成**响应式**样式",
-      "使用 `Gulp` 驱动页面生成、架设本地服务器、帮助部署到 GitHub Pages"
+      "关于自己的个人博客的网站",
+      "分别有三个Demo版本,Nodejs版,Python版,PHP版,Nodejs版和Python都是浅尝辄止,PHP版本为正式版本",
+      "Nodejs版技术栈为Nodejs+express+mysql",
+      "Python版技术栈为Python+Django+mysql",
+      "PHP版技术栈为PHP+laravel+mysql+redis+WebPack等",
+      "个站模式在运用富文本编辑器录入的基础上加入了掘金链接模式,即可以选择手动书写,也可以选择复制黏贴链接,例如github链接,gitbook链接等"
     ],
-    "stack": ["jade", "less", "gulp"],
+    "stack": ["PHP", "Nodejs", "Python", "Express", "Django", "mysql", "laravel", "redis", "jade", "sass", "webpack"],
     "compatibility": "IE9+"
   }, {
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
-    "name": "My Tech Diary",
-    "source": "https://github.com/joyeecheung/diary",
-    "demo": "http://joyeecheung.github.io/diary/",
+    "name": "My-Frontend-Projects",
+    "source": "https://github.com/alihanniba/my-frontend-projects",
+    "demo": "https://github.com/alihanniba/my-frontend-projects",
     "description": [
-      "一个技术日记站点生成器，从 `git submodule` 中读取 `Markdown` 文件，结合 `Jade` 模板，生成静态站点",
-      "通过 `PostCSS` 将依照实验性 CSS 标准编写的代码转译使用",
-      "前端 JavaScript 代码以 `CommonJS` 形式组织，使用 `WebPack` 进行打包处理",
-      "使用 `Gulp` 驱动页面生成、架设本地服务器、帮助部署到 GitHub Pages"
+      "<微信电子名片  (2015-9)> 即时生成你的专属电子名片,引用百度上传控件webuploader上传,再上传到七牛获取url",
+      "<经销系统未完成版 (2015-10)> 系统架构在laravel框架上,运用laravel5初步完成登陆注册及计算各个等级佣金部分",
+      "<撸电影手机网站 (2015-11)> 通过后台上传电影到七牛,获取链接信息,渲染页面,并判断终端是PC或手机做不同处理",
+      "<Video手机去广告观看视频 (2015-11)> 系统架构在laravel框架上,爬取优酷视频,分类平台去广告观看",
+      "<电影票比价手机网站 (2015-12)> 通过爬取猫眼,卖座,时光,微票等电影售票网站价格,地点,以及电影院上映时间等信息,调取本地坐标接口获取距离,依据距离由近到远排序,再依据电影院售票价格做比价调整,最后用户可以依据价格直接依据已选场次在各售票网站买票",
+      "<移动端九宫格抽奖活动 (2016-1)> 九宫格转盘抽奖活动,适配各手机移动端浏览器",
+      "<大数据后台移动端Demo版 (2016-3)> 精准化营销大数据后台管理系统移动端Demo版,适配手机及ipad "
     ],
-    "stack": ["jade", "postcss", "markdown",  "webpack", "gulp"],
+    "stack": ["laravel", "php", "jquery", "qinniuAPI"],
     "compatibility": "IE9+"
-  }, {
-    "type": "project",
-    "techtype": "frontend",
-    "project_type": "personal",
-    "name": "Virtual Bookcase",
-    "source": "https://github.com/joyeecheung/virtual-bookcase",
-    "description": [
-      "基于 `Three.js` 实现的 3D 虚拟图书室",
-      "使用 `Express` 与 `MongoDB` 提供图书数据 API",
-      "使用 `RequireJS` 加载模块，`Grunt` 驱动工作流，`Web Worker` 优化图像处理"
-    ],
-    "stack": ["three.js", "mongodb", "express"],
-    "compatibility": "IE10+"
   }],
   "skills": [{
     "type": "frontend",
@@ -157,42 +148,39 @@
     }, {
       "summary": "`ECMAScript`（`JavaScript`）",
       "description": [
-        "熟悉 `ECMAScript`（`JavaScript`），对 `JavaScript 引擎`及相关 JIT 技术有一定的了解",
-        "了解 `ECMAScript` 新标准与相关后处理工具并能在项目中使用"
+        "熟悉 `ECMAScript`（`JavaScript`)",
+        "了解 `ECMAScript` 新标准与相关后处理工具并能在私人项目中使用"
       ]
     }, {
-      "summary": "`DOM` / `BOM` 及常见 `Web API`",
+      "summary": "`DOM` 及常见 `Web API`",
       "description": [
-        "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（W3C / WHATWG），有桌面 / 移动端前端组件的开发经验",
-        "对 `WebGL` / `Web Workers` / `WebSocket` / `Web Components` / `SVG` 等 API 有一定的使用经验",
-        "阅读过 `WebKit` / `Blink` 源码中的部分实现，了解常见的 Web API **兼容性**问题及其解决方案"
+        "熟悉原生 `DOM` 的使用及相关标准（W3C），有移动端前端的开发经验",
+        "对 `Geolocation` / `localStorage` / `WebSocket` / `Canvas` 等 HTML5新特性 有一定的使用经验",
+        "了解常见的 Web API **兼容性**问题及其解决方案"
       ]
     }, {
       "summary": "前端工程实践",
       "description": [
-        "使用 `Meteor` / `AngularJS` / `Polymer` 编写过简单的 CRUD SPA，了解 `Backbone.js` / `React` 及前端 `MV*` 模型",
-        "熟悉 `jQuery` / `jQuery UI` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
-        "在项目中使用过 `Sea.js` / `RequireJS` / `Browserify` / `Bower` / `WebPack` 等多种模块化解决方案",
-        "在项目中使用过 `Less` / `Sass` / `PostCSS` / `CoffeeScript` / `TypeScript` 等预处理/后处理工具",
-        "日常使用 `Grunt` 或 `Gulp` 改进工作流",
+        "了解 `React` 及前端 `MV*` 模型",
+        "熟悉 `jQuery` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
+        "日常私人项目中使用 `gulp` 或 `webpack` 改进工作流",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
       ]
     }]
   }, {
     "type": "backend",
     "item": [{
-      "summary": "`Node.js`",
+      "summary": "`PHP`",
       "description": [
-        "能够使用 `Node.js API` / `Express` / `Koa` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`",
-        "了解异步 I/O 及事件驱动的服务器模型，掌握常见的**异步编程**解决方案",
-        "能编写简单的 `Express` / `Connect` / `Koa` 中间件，使用 `Mocha` 与 `Chai` 编写单元测试"
+        "能够使用 `PHP` / `laravel` / `thinkphp` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`",
+        "能编写简单的 `laravel`  中间件以及异步队列"
       ]
     }, {
       "summary": "其他",
       "description": [
-        "使用 `Tornado` / `Flask`（`Python`） 搭建过简单的服务器",
-        "有使用 `MongoDB` / `MySQL` 数据库，`Redis` 缓存，`nginx` 反向代理的经验",
-        "了解 `HTTP`（1.x / 2）、 `TCP/IP`、 `WebSocket` 等协议"
+        "使用 `MySQL` / `express`（`Nodejs`） 搭建过简单的服务器",
+        "有使用 `mysql` / `MySQL` 数据库，`Redis` 缓存，`Django/Python` ",
+        "了解 `HTTP`（1.x / 2）、 `TCP/IP`、等协议"
       ]
     }]
   }, {

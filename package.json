@@ -1,16 +1,16 @@
 {
-  "name": "joyee-resume",
+  "name": "alihanniba-resume",
   "version": "1.0.0",
   "description": "Read resume data from a JSON file and generate a static web page.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Joyee Cheung <joyeec9h3@gmail.com>",
+  "author": "alihanniba<alihanniba@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joyeecheung/resume.git"
+    "url": "git://github.com/alihanniba/resume.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -26,9 +26,9 @@
     "jade": "^1.10.0"
   },
   "bugs": {
-    "url": "https://github.com/joyeecheung/resume/issues"
+    "url": "https://github.com/alihanniba/resume/issues"
   },
-  "homepage": "https://github.com/joyeecheung/resume",
+  "homepage": "https://github.com/alihanniba/resume",
   "keywords": [
     "resume"
   ]

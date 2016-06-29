@@ -1,6 +1,7 @@
 module.exports = {
     experience_type: {
-        "internship": "（实习）"
+        "internship": "（实习）",
+        "fulltime": "（全职）"
     },
     skill_type: {
         "frontend": "Web 前端",
@@ -13,6 +14,7 @@ module.exports = {
     link_type: {
         "zhihu": "知乎",
         "doubanbook": "豆瓣读书",
+        "gitbook": "gitbook",
         "repo": "源代码",
         "pdf": "PDF 下载"
     },
