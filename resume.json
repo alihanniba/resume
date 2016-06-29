@@ -62,7 +62,7 @@
     ]
   }],
   "experience": [{
-    "type": "internship",
+    "type": "job",
     "techtype": "backend",
     "place": "深圳声牙科技WEB技术部-数据应用部",
     "start": "2016.03",
@@ -76,7 +76,7 @@
     "stack": ["PHP", "laravel", "qinniuAPI", "composer", "mysql", "redis"],
     "compatibility": "IE8+"
   }, {
-    "type": "internship",
+    "type": "job",
     "techtype": "frontend",
     "place": "深圳声牙科技WEB技术部-前端应用部",
     "start": "2015.10",
