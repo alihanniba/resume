@@ -44,8 +44,7 @@
     "start": "2011",
     "end": "2015",
     "honor": [
-      "2011 - 2012 学年度校**三等奖学金**",
-      "2012 - 2013 学年度校**一等奖学金**"
+      "2011 - 2012 学年度校**三等奖学金**"
     ]
   }],
   "language": [{
@@ -109,8 +108,7 @@
     "source": "https://github.com/alihanniba/alihanniba.com-all-languages-version",
     "demo": "https://www.alihanniba.com/",
     "description": [
-      "关于自己的个人博客的网站,分别有三个Demo版本,Nodejs版,Python版,PHP版",
-      "个站模式在运用富文本编辑器录入的基础上加入了掘金链接模式,即可以选择手动书写,也可以选择复制黏贴链接,例如github链接,gitbook链接等"
+      "关于自己的个人博客的网站,个站模式在运用富文本编辑器录入的基础上加入了掘金链接模式,即可以选择手动书写,也可以选择复制黏贴链接,例如github链接,gitbook链接等"
     ],
     "stack": ["PHP", "Nodejs", "Python", "Express", "Django", "mysql", "laravel", "redis", "jade", "sass", "webpack"],
     "compatibility": "IE9+"
@@ -122,13 +120,9 @@
     "source": "https://github.com/alihanniba/my-frontend-projects",
     "demo": "https://github.com/alihanniba/my-frontend-projects",
     "description": [
-      "微信电子名片  (2015-9)",
-      "经销系统未完成版 (2015-10)",
-      "撸电影手机网站 (2015-11)",
-      "Video手机去广告观看视频 (2015-11)",
-      "电影票比价手机网站 (2015-12)",
-      "移动端九宫格抽奖活动 (2016-1)",
-      "大数据后台移动端Demo版 (2016-3)"
+      "微信电子名片  (2015-9), 编写语义化的 HTML，模块化的 CSS，实现较复杂的布局与动画，针对微信浏览器作兼容和优化处理，并学会调用微信 JSSDK 相关接口",
+      "Video手机去广告观看视频 (2015-11), 编写适配移动端的语义化 HTML, 针对移动端各手机浏览器兼容做处理, 以及调整HTML5 新特性在不同手机平台上的实现",
+      "电影票比价手机网站 (2015-12) 根据后台返回坐标数据,运用HTML5 Geolocation 新特性计算距离并排序, 优化前端响应效果以及非等高滑动特效"
     ],
     "stack": ["laravel", "php", "jquery", "qinniuAPI"],
     "compatibility": "IE9+"
@@ -138,8 +132,7 @@
     "item": [{
       "summary": "`HTML` / `CSS` / `ECMAScript`",
       "description": [
-        "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
-        "熟悉已标准化的 `HTML5` / `CSS3` 新特性，实验项目中能尝试使用未广泛实现的新标准",
+        "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画,熟悉已标准化的 `HTML5` / `CSS3` 新特性",
         "熟悉 `ECMAScript`（`JavaScript`) 及原生 `DOM` 的使用及相关标准（W3C），有移动端前端的开发经验",
         "对 `Geolocation` / `localStorage` / `Canvas` 等 HTML5新特性 有一定的使用经验"
       ]
