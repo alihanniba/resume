@@ -35,7 +35,7 @@
     "url": "https://www.zhihu.com/people/rockey-8/activities"
   }, {
     "type": "gitbook",
-    "url": "https://www.gitbook.com/@alihanniba/dashboard"
+    "url": "https://www.gitbook.com/@alihanniba"
   }, {
     "type": "掘金",
     "url": "https://gold.xitu.io/user/56e62d3ac4c9710051378d97"
@@ -55,27 +55,23 @@
   }],
   "language": [{
     "type": "english",
-    "certificate": [{
-      "type": "CET-4",
-      "full": "710",
-      "score": "434"
-    }],
+    "certificate": [],
     "description": [
       "能流畅阅读英文文档及其他资料",
-      "能够在github、Stack Overflow 等社区正常交流"
+      "能够在 github 、Stack Overflow 等社区正常交流"
     ]
   }],
   "experience": [{
     "type": "job",
     "techtype": "frontend",
-    "place": "北京东方嘉禾股份有限公司-OTT端",
+    "place": "北京东方嘉禾股份有限公司-OTT",
     "start": "2016.09",
     "end": "2017.01",
     "name": "前端开发",
     "description": [
-      "电视端应用在微信端与手机端基于HTML5项目开发",
-      "基于Nodejs的接口及中间件开发",
-      "基于cordova、react、redux开发的视频类媒体传播App"
+      "电视端应用在微信端与手机端基于 `HTML5` 项目开发",
+      "基于 `Nodejs` 的接口及中间件开发",
+      "基于 `cordova` 、`react` 、`redux` 开发的视频类App"
     ],
     "stack": ["react", "redux", "react-redux", "react-router"],
     "compatibility": "IE8+"
@@ -87,8 +83,7 @@
     "end": "2016.08",
     "name": "PHP开发",
     "description": [
-      "开发符合restful规范的大数据后台接口",
-      "同步大数据请求百度对接接口标签",
+      "开发符合 `Restful` 规范的大数据后台接口",
       "开发后台逻辑展示接口"
     ],
     "stack": ["PHP", "laravel", "qinniuAPI", "composer", "mysql", "redis"],
@@ -101,9 +96,8 @@
     "end": "2016.03",
     "name": "前端开发",
     "description": [
-      "参与公司官网及后台页面制作,实现前端组件及数据交互",
-      "开发基于公司内部运营部后台页面",
-      "配合运营部完成HTML5活动页面制作及微信开发"
+      "公司官网及运营部后台、客户端后台开发",
+      "配合运营部完成 `HTML5` 活动页及微信端开发"
     ],
     "stack": ["html", "css", "javascript", "zepto", "jquery", "laravel"],
     "compatibility": "IE8+"
@@ -111,11 +105,12 @@
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
-    "name": "www.alihanniba.com (详情请点击上方Demo)",
-    "source": "https://github.com/alihanniba/alihanniba.com-all-languages-version",
+    "name": "https://www.alihanniba.com/",
+    "source": "https://github.com/alihanniba/WYWM",
     "demo": "https://www.alihanniba.com/",
     "description": [
-      "关于自己的个人博客的网站,个站模式在运用富文本编辑器录入的基础上加入了掘金链接模式,即可以选择手动书写,也可以选择复制黏贴链接,例如github链接,gitbook链接等"
+      "`1.0` : 个站模式在运用富文本编辑器录入的基础上加入掘金链接模式,手动书写与复制黏贴链接两种模式,前端采用 `Laravel` 静态模板, `api` 架构于 `Laravel` 框架之上",
+      "`1.1` : 新版个站前端构建于 `react`、`redux`、`react-router` ,采用 `react全家桶` 的模块化构建模式,后台 `api` 采用 `python` 的 `django` 框架书写"
     ],
     "stack": ["PHP", "Nodejs", "Python", "Express", "Django", "mysql", "laravel", "redis", "jade", "sass", "webpack"],
     "compatibility": "IE9+"
@@ -123,13 +118,13 @@
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
-    "name": "My-Frontend-Projects (详情请点击上方Demo)",
-    "source": "https://github.com/alihanniba/my-frontend-projects",
-    "demo": "https://github.com/alihanniba/my-frontend-projects",
+    "name": "My-Frontend-Repository",
+    "source": "https://github.com/alihanniba/my-frontend-repository",
+    "demo": "https://github.com/alihanniba/my-frontend-repository",
     "description": [
-      "微信电子名片  (2015-9), 编写语义化的 HTML，模块化的 CSS，实现较复杂的布局与动画，针对微信浏览器作兼容和优化处理，并学会调用微信 JSSDK 相关接口",
-      "Video手机去广告观看视频 (2015-11), 编写适配移动端的语义化 HTML, 针对移动端各手机浏览器兼容做处理, 以及调整HTML5 新特性在不同手机平台上的实现",
-      "电影票比价手机网站 (2015-12) 根据后台返回坐标数据,运用HTML5 Geolocation 新特性计算距离并排序, 优化前端响应效果以及非等高滑动特效"
+      "微信电子名片 (2015-9),调用 `微信JSSDK` 相关接口",
+      "Video手机去广告观看视频 (2015-11), 针对移动端各手机浏览器做兼容处理",
+      "电影票比价手机网站 (2015-12),运用 `HTML5新特性` 计算距离排序并比价"
     ],
     "stack": ["laravel", "php", "jquery", "qinniuAPI"],
     "compatibility": "IE9+"
@@ -137,17 +132,25 @@
   "skills": [{
     "type": "frontend",
     "item": [{
-      "summary": "`HTML` / `CSS` / `ECMAScript` / `ES6+`",
+      "summary": "`HTML` / `CSS` / `ECMAScript`",
       "description": [
         "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画,熟悉已标准化的 `HTML5` / `CSS3` 新特性",
-        "熟悉 `ECMAScript`（`JavaScript`) 及原生 `DOM` 的使用及相关标准（W3C），有移动端前端的开发经验",
+        "熟悉 `ECMAScript`（`JavaScript`) 及相关标准（W3C），有移动端前端的开发经验",
         "对 `Geolocation` / `localStorage` / `Canvas` 等 HTML5新特性 有一定的使用经验"
+      ]
+    },{
+      "summary": "`DOM` / `ES6+`",
+      "description": [
+        "熟悉原生 `DOM` 的使用及操作",
+        "熟悉 `ES6` 及以上相关语法及语法糖并能在项目中运用,了解 `Promise` 、`async` 等新特性"
       ]
     },{
       "summary": "前端工程实践",
       "description": [
         "了解 `React` 及前端 `MV*` 模型,日常私人项目中使用 `gulp` 或 `webpack` 改进工作流",
+		"熟悉 `React、Redux全家桶` 的开发流程及团队协作模式",
         "熟悉 `jQuery` / `zepto` 的使用与扩展, 阅读过部分源代码",
+        "熟悉`Sass`、`Less`等预处理工具并能在项目中运用",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
       ]
     }]
@@ -163,7 +166,7 @@
       "summary": "其他",
       "description": [
         "使用 `MySQL` / `express`（`Nodejs`） 搭建过简单的服务器",
-        "有使用 ``MySQL` 数据库，`Redis` 缓存，`Django/Python`的项目经验 ",
+        "有使用 `MySQL` 数据库，`Redis` 缓存，`Django/Python`的项目经验 ",
         "了解 `HTTP`（1.x / 2）、 `TCP/IP`、等协议"
       ]
     }]
