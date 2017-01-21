@@ -109,8 +109,8 @@
     "source": "https://github.com/alihanniba/WYWM",
     "demo": "https://www.alihanniba.com/",
     "description": [
-      "`1.0` : 个站模式在运用富文本编辑器录入的基础上加入掘金链接模式,手动书写与复制黏贴链接两种模式,前端采用 `Laravel` 静态模板, `api` 架构于 `Laravel` 框架之上",
-      "`1.1` : 新版个站前端构建于 `react`、`redux`、`react-router` ,采用 `react全家桶` 的模块化构建模式,后台 `api` 采用 `python` 的 `django` 框架书写"
+      "`1.0` : 个站模式在运用富文本编辑器录入的基础上加入掘金链接模式,整站架构于 `Laravel` 框架之上",
+      "`1.1` : 新版个站前端构建于 `react`、`redux`、`react-router` ,采用 `react` 全家桶的模块化构建模式,后台 `api` 采用 `python` 的 `django` 框架书写"
     ],
     "stack": ["PHP", "Nodejs", "Python", "Express", "Django", "mysql", "laravel", "redis", "jade", "sass", "webpack"],
     "compatibility": "IE9+"
@@ -122,9 +122,9 @@
     "source": "https://github.com/alihanniba/my-frontend-repository",
     "demo": "https://github.com/alihanniba/my-frontend-repository",
     "description": [
-      "微信电子名片 (2015-9),调用 `微信JSSDK` 相关接口",
+      "微信电子名片 (2015-9),调用 微信JSSDK 相关接口",
       "Video手机去广告观看视频 (2015-11), 针对移动端各手机浏览器做兼容处理",
-      "电影票比价手机网站 (2015-12),运用 `HTML5新特性` 计算距离排序并比价"
+      "电影票比价手机网站 (2015-12),运用 HTML5新特性 计算距离排序并比价"
     ],
     "stack": ["laravel", "php", "jquery", "qinniuAPI"],
     "compatibility": "IE9+"
@@ -148,8 +148,8 @@
       "summary": "前端工程实践",
       "description": [
         "了解 `React` 及前端 `MV*` 模型,日常私人项目中使用 `gulp` 或 `webpack` 改进工作流",
-		"熟悉 `React、Redux全家桶` 的开发流程及团队协作模式",
-        "熟悉 `jQuery` / `zepto` 的使用与扩展, 阅读过部分源代码",
+		"熟悉 `React、Redux全家桶` 开发流程及团队协作模式",
+        "熟悉 `jQuery` / `zepto` 使用与扩展, 阅读过部分源代码",
         "熟悉`Sass`、`Less`等预处理工具并能在项目中运用",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
       ]
@@ -165,7 +165,7 @@
     }, {
       "summary": "其他",
       "description": [
-        "使用 `MySQL` / `express`（`Nodejs`） 搭建过简单的服务器",
+        "使用 `MySQL` / `express`（`Nodejs`） 搭建服务器",
         "有使用 `MySQL` 数据库，`Redis` 缓存，`Django/Python`的项目经验 ",
         "了解 `HTTP`（1.x / 2）、 `TCP/IP`、等协议"
       ]
@@ -174,8 +174,8 @@
     "type": "miscellaneous",
     "item": [
       "两年 `Linux` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
-      "熟悉Linux系统环境配置与LNMP/LAMP服务器搭建",
-      "熟悉 `Python`，能实现简单的数据自动化脚本、爬虫（参见 GitHub）",
+      "熟悉Linux系统环境配置与 `LNMP/LAMP` 服务器搭建",
+      "熟悉 `Python`，能实现简单的数据自动化脚本、爬虫",
       "能够使用 `Markdown` 编写得体的文档或论文，具备良好的技术交流能力",
       "日常使用 `Git` 与 `Sublime Text` / `Vim` / `Vscode` /  `Atom` 进行开发，也乐于尝试新工具",
       "能够使用 `Photoshop` / `Sketch` / `Zeplin` 完成简单的设计"
