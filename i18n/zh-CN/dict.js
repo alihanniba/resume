@@ -16,6 +16,7 @@ module.exports = {
         "doubanbook": "豆瓣读书",
         "gitbook": "gitbook",
         "掘金": "稀土掘金",
+        "微信公众号": "微信公众号",
         "repo": "源代码",
         "pdf": "PDF 下载"
     },
