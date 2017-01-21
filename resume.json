@@ -4,7 +4,7 @@
   "resume_title": "刘立 - 个人简历",
   "name": "刘立",
   "repo": "https://github.com/alihanniba/resume.git",
-  "job_description": ["前端工程师", "PHP工程师"],
+  "job_description": ["前端工程师"],
   "contact": {
     "email": "alihanniba@gmail.com",
     "wechat": {
@@ -12,8 +12,8 @@
       "qrcode": "static/wechat.jpg"
     },
     "sinaweibo": {
-      "id": "阿里汉尼拔",
-      "url": "http://weibo.com/2691586145/profile?topnav=1&wvr=6&is_all=1"
+      "id": "Alihanniba",
+      "url": "http://weibo.com/2691586145/fans?topnav=1&wvr=6&mod=message&need_filter=1"
     },
     "github": {
       "id": "alihanniba"
@@ -28,14 +28,17 @@
 
   }, {
     "type": "pdf",
-    "url": "static/joyeecheung.pdf"
+    "url": "static/alihanniba.pdf"
 
   }, {
     "type": "zhihu",
-    "url": "https://www.zhihu.com/people/rockey-8"
+    "url": "https://www.zhihu.com/people/rockey-8/activities"
   }, {
     "type": "gitbook",
     "url": "https://www.gitbook.com/@alihanniba/dashboard"
+  }, {
+    "type": "掘金",
+    "url": "https://gold.xitu.io/user/56e62d3ac4c9710051378d97"
   }],
   "education": [{
     "type": "undergraduate",
@@ -56,14 +59,13 @@
     }],
     "description": [
       "能流畅阅读英文文档及其他资料",
-      "可无字幕观看 MOOC 课程、开发者大会视频",
       "能够在github、Stack Overflow 等社区正常交流"
     ]
   }],
   "experience": [{
     "type": "job",
     "techtype": "backend",
-    "place": "深圳声牙科技WEB技术部-数据应用部",
+    "place": "深圳声牙科技WEB端-数据应用部",
     "start": "2016.03",
     "end": "至今",
     "name": "PHP开发",
@@ -77,29 +79,17 @@
   }, {
     "type": "job",
     "techtype": "frontend",
-    "place": "深圳声牙科技WEB技术部-前端应用部",
-    "start": "2015.10",
+    "place": "深圳声牙科技WEB端-前端应用部",
+    "start": "2015.06",
     "end": "2016.03",
     "name": "前端开发",
     "description": [
       "参与公司官网及后台页面制作,实现前端组件及数据交互",
+      "开发基于公司内部运营部后台页面",
       "配合运营部完成HTML5活动页面制作及微信开发"
     ],
-    "stack": ["laravel", "javascript", "jquery"],
+    "stack": ["html", "css", "javascript", "zepto", "jquery", "laravel"],
     "compatibility": "IE8+"
-  }, {
-    "type": "internship",
-    "techtype": "frontend",
-    "place": "深圳声牙科技WEB技术部-前端应用部",
-    "start": "2015.06",
-    "end": "2015.10",
-    "name": "前端开发",
-    "description": [
-      "开发基于公司业务的商超静态页面",
-      "开发基于公司内部运营部后台页面",
-      "编写简单的基于thinkphp的前端对接数据接口"
-    ],
-    "stack": ["html", "css", "javascript", "jquery", "thinkphp"]
   }, {
     "type": "project",
     "techtype": "frontend",

@@ -15,6 +15,7 @@ module.exports = {
         "zhihu": "知乎",
         "doubanbook": "豆瓣读书",
         "gitbook": "gitbook",
+        "掘金": "稀土掘金",
         "repo": "源代码",
         "pdf": "PDF 下载"
     },
